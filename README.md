@@ -15,6 +15,7 @@
   <img align="center" alt="Welly-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Welly-Vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Welly-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="right" alt="Welly-Scoby" height="160" width="280" src="https://media.giphy.com/media/1zijfEWLg9bIuAXna7/giphy.gif">
 </div>
   
 ##
@@ -25,4 +26,3 @@
   <a href="https://www.instagram.com/wellington71319" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://www.facebook.com/wellington.jose.5891004/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
 </div>
-  
