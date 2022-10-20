@@ -15,7 +15,7 @@
   <img align="center" alt="Welly-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Welly-Vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Welly-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="right" alt="Welly-Yodinha" height="170" width="300" src="https://media.giphy.com/media/VZCFpF6sUyoG6l5SrY/giphy.gif">
+  <!-- <img align="right" alt="Welly-Yodinha" height="170" width="300" src="https://media.giphy.com/media/VZCFpF6sUyoG6l5SrY/giphy.gif"> -->
 </div>
   
 ##
