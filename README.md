@@ -1,12 +1,10 @@
 ### Hi! I'm Wellington 👋
 
-<!--
 <div>
   <a href="https://github.com/wellington36">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wellington36&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellington36&hide=Jupyter%20Notebook&layout=compact&langs_count=10&theme=dark"/>
 </div>
--->
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Welly-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -17,7 +15,7 @@
   <img align="center" alt="Welly-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Welly-Vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Welly-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <!-- <img align="right" alt="Welly-Yodinha" height="170" width="300" src="https://media.giphy.com/media/VZCFpF6sUyoG6l5SrY/giphy.gif"> -->
+  <img align="right" alt="Welly-Yodinha" height="170" width="300" src="https://media.giphy.com/media/yrhhmre5fN2PtRujfo/giphy.gif">
 </div>
   
 ##
